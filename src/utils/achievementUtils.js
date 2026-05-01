@@ -1,4 +1,6 @@
 import logo from "../assets/achievement/spidyMeM.png";
+import first from "../assets/achievement/firstMaso.png";
+import sniper from "../assets/achievement/squaloSnipe.png";
 import speed from "../assets/achievement/speed.png";
 import gator from "../assets/achievement/gator.png";
 import servito from "../assets/achievement/servito.png";
@@ -21,11 +23,11 @@ export const winAchievements = (gameStatus, gameStats, ATTEMPS, addNewAch, guess
   const endTime = Date.now();
   const secToWin = Math.floor((endTime - gameStatus.startTime) / 1000);
 
-  addNewAch(logo, "First Blood", "Tabellino sverginato tocca portare cibo", "yeah-buddy.mp3");
+  addNewAch(first, "First Blood", "Tabellino sverginato tocca portare cibo", "call-911-now_1.mp3");
 
-  guesses.length === 1 && addNewAch(logo, "One Shot", "Sniper vero", "yeah-buddy.mp3");
+  guesses.length === 1 && addNewAch(sniper, "One Shot", "Sniper vero", "boom-shak-sin-audio.mp3");
 
-  guesses.length === ATTEMPS && addNewAch(logo, "Clutch", "Hai rischiato eh", "yeah-buddy.mp3");
+  //guesses.length === ATTEMPS && addNewAch(logo, "Clutch", "Hai rischiato eh", "yeah-buddy.mp3");
 
   guesses.length === 2 && winSum[1] === 4 && addNewAch(servito, "Servito", "Servitoooooo", "yeah-buddy.mp3");
 
@@ -33,7 +35,7 @@ export const winAchievements = (gameStatus, gameStats, ATTEMPS, addNewAch, guess
     addNewAch(logo, "U fokking cheater", "Stop cheating", "waluigi-everybody-cheater.mp3");
     return gameStatus.startTime + 24 * 60 * 60 * 1000;
   }
-  secToWin < 10 && addNewAch(speed, "Speed", "I'm speed", "im-fast-as-f-boy.mp3");
+  secToWin < 10 && addNewAch(speed, "Quick Release", "Piu veloce di Popa a prendere le brioche", "im-fast-as-f-boy.mp3");
 
   Math.floor(secToWin / 3600) > 0 && addNewAch(gator, "Gator", "Stai squazzando un po troppo", "toad.mp3");
 
