@@ -8,11 +8,11 @@ import Stats from "./Stats";
 import Banner from "./Banner";
 import { useAchievement } from "./AchievementContex";
 import { winAchievements, loseAchievements } from "../utils/achievementUtils";
-import { fullScreen } from "../utils/fullScreen";
+import { useFullScreen } from "../utils/fullScreen";
 import time from "../assets/achievement/time.png";
 
 const Game = ({ data, assets, mod, ATTEMPTS, openStats }) => {
-  const { isMobile, isLandscape } = fullScreen();
+  const { isMobile, isLandscape } = useFullScreen();
   const isFullScreen = isMobile && isLandscape;
   const { addNewAch } = useAchievement();
   const [todayPlayer] = useState(() => extractPlayer(assets.silhouettes), []);

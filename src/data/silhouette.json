@@ -5,8 +5,8 @@
     "role": "AG",
     "height": 186,
     "birthday": "1994-06-30",
-    "media": "c9a3639b57c741dcd0334c28032e4280.png",
-    "media_silhouette": "c9a3639b57c741dcd0334c28032e4280_sl.png"
+    "media": "c9a3639b57c741dcd0334c28032e4280.png,4b405723cbe99ab378fefa8db3fcabbe.mp4",
+    "media_silhouette": "c9a3639b57c741dcd0334c28032e4280_sl.png,4b405723cbe99ab378fefa8db3fcabbe_sl.mp4"
   },
   {
     "name": "Luca Comella",
@@ -14,8 +14,8 @@
     "role": "AG/C",
     "height": 189,
     "birthday": "1997-06-30",
-    "media": "d455686c3e9d427446a2adc7b62f3a26l.png",
-    "media_silhouette": "d455686c3e9d427446a2adc7b62f3a26l_sl.png"
+    "media": "d455686c3e9d427446a2adc7b62f3a26l.png,cf0832e7d9693045f6106b114240bafb.mp4",
+    "media_silhouette": "d455686c3e9d427446a2adc7b62f3a26l_sl.png,cf0832e7d9693045f6106b114240bafb_sl.mp4"
   },
   {
     "name": "Carlo Corigliano",
@@ -23,8 +23,8 @@
     "role": "PG",
     "height": 181,
     "birthday": "2001-12-23",
-    "media": "a0df931e7a7f9b608c165504bde9b620.png",
-    "media_silhouette": "a0df931e7a7f9b608c165504bde9b620_sl.png"
+    "media": "a0df931e7a7f9b608c165504bde9b620.png,b9caa92e6cd8abb38209e2da9197b6b8.mp4",
+    "media_silhouette": "a0df931e7a7f9b608c165504bde9b620_sl.png,b9caa92e6cd8abb38209e2da9197b6b8_sl.mp4"
   },
   {
     "name": "Tommaso Di Caro",
@@ -59,8 +59,8 @@
     "role": "G/PM",
     "height": 185,
     "birthday": "2004-10-14",
-    "media": "c441d6dd9a62e283bb3f016520dac401.png",
-    "media_silhouette": "c441d6dd9a62e283bb3f016520dac401_sl.png"
+    "media": "c441d6dd9a62e283bb3f016520dac401.png,faede78cc87ddc865c17641b48defcc7.mp4",
+    "media_silhouette": "c441d6dd9a62e283bb3f016520dac401_sl.png,faede78cc87ddc865c17641b48defcc7_sl.mp4"
   },
   {
     "name": "Samuele Landolfi",
@@ -68,8 +68,8 @@
     "role": "PM/G",
     "height": 183,
     "birthday": "2005-08-04",
-    "media": "332532dcfaa1cbf61e2a266bd723612c.png",
-    "media_silhouette": "332532dcfaa1cbf61e2a266bd723612c_sl.png"
+    "media": "332532dcfaa1cbf61e2a266bd723612c.png,010945b9c5c08981e442621d49d54b08.mp4",
+    "media_silhouette": "332532dcfaa1cbf61e2a266bd723612c_sl.png,010945b9c5c08981e442621d49d54b08_sl.mp4"
   },
   {
     "name": "Alessandro Martino",
@@ -77,8 +77,8 @@
     "role": "PM",
     "height": 183,
     "birthday": "2005-05-01",
-    "media": "1722a28089f91b73fff8708c26800a5e.png",
-    "media_silhouette": "1722a28089f91b73fff8708c26800a5e_sl.png"
+    "media": "1722a28089f91b73fff8708c26800a5e.png,26fd1398a0dae03d2ad801e4a3fdfe0d.mp4",
+    "media_silhouette": "1722a28089f91b73fff8708c26800a5e_sl.png,26fd1398a0dae03d2ad801e4a3fdfe0d_sl.mp4"
   },
   {
     "name": "Tommaso Meller",
@@ -95,8 +95,8 @@
     "role": "G/AP",
     "height": 186,
     "birthday": "2004-12-24",
-    "media": "43bd48ade3219a1931115a1dabbe1a7f.png",
-    "media_silhouette": "43bd48ade3219a1931115a1dabbe1a7f_sl.png"
+    "media": "43bd48ade3219a1931115a1dabbe1a7f.png,5cf1480486de8a8d69df0e2d8fb1cdb0.mp4",
+    "media_silhouette": "43bd48ade3219a1931115a1dabbe1a7f_sl.png,5cf1480486de8a8d69df0e2d8fb1cdb0_sl.mp4"
   },
   {
     "name": "Djibril Niang",
@@ -104,8 +104,8 @@
     "role": "C",
     "height": 186,
     "birthday": "1997-08-30",
-    "media": "1499b243953993c8f84c2bf1100e0c20.png,b24815d5c0f155cdbe397c9b591e81b4.mp4",
-    "media_silhouette": "1499b243953993c8f84c2bf1100e0c20_sl.png,b24815d5c0f155cdbe397c9b591e81b4_sl.mp4"
+    "media": "1499b243953993c8f84c2bf1100e0c20.png,b24815d5c0f155cdbe397c9b591e81b4.mp4,9c3d7121d10c82ca18c6602755d7ca12.mp4",
+    "media_silhouette": "1499b243953993c8f84c2bf1100e0c20_sl.png,b24815d5c0f155cdbe397c9b591e81b4_sl.mp4,9c3d7121d10c82ca18c6602755d7ca12_sl.mp4"
   },
   {
     "name": "Jacopo Popandonov",
@@ -113,7 +113,7 @@
     "role": "AG/C",
     "height": 190,
     "birthday": "2000-04-04",
-    "media": "de75daa73f5916ffad0bb0a1c4a8df0b.png",
-    "media_silhouette": "de75daa73f5916ffad0bb0a1c4a8df0b_sl.png"
+    "media": "de75daa73f5916ffad0bb0a1c4a8df0b.png,83574147f9a05095f808540cb0fe19ea.mp4",
+    "media_silhouette": "de75daa73f5916ffad0bb0a1c4a8df0b_sl.png,83574147f9a05095f808540cb0fe19ea_sl.mp4"
   }
 ]

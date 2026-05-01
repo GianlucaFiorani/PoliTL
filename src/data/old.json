@@ -1,0 +1,119 @@
+[
+  {
+    "name": "Emilio Trombini",
+    "number": 10,
+    "role": "AP/G",
+    "height": 188,
+    "birthday": "1991-08-05",
+    "media": "bac62f18fe7c1773410497c86b49e2d9.mp4",
+    "media_silhouette": "bac62f18fe7c1773410497c86b49e2d9_sl.mp4"
+  },
+  {
+    "name": "Francesco Trifilo",
+    "number": 6,
+    "role": "G/AP",
+    "height": 184,
+    "birthday": "1989-03-14",
+    "media": "1b91ef8e531b528ca11f0ccf983da347.mp4,defb0dab327c21dfdb0ea05d9d08f9aa.mp4",
+    "media_silhouette": "1b91ef8e531b528ca11f0ccf983da347_sl.mp4,defb0dab327c21dfdb0ea05d9d08f9aa_sl.mp4"
+  },
+  {
+    "name": "Giacomo Vantini",
+    "number": 5,
+    "role": "PG",
+    "height": 179,
+    "birthday": "1997-11-25",
+    "media": "c43244049dd8c920d00e2616631ae373.mp4",
+    "media_silhouette": "c43244049dd8c920d00e2616631ae373_sl.mp4"
+  },
+  {
+    "name": "Daniele Visentini",
+    "number": 9,
+    "role": "C/AG",
+    "height": 191,
+    "birthday": "1991-03-06",
+    "media": "5de3f49341680f1b5da3da3ab059f046.mp4",
+    "media_silhouette": "5de3f49341680f1b5da3da3ab059f046_sl.mp4"
+  },
+  {
+    "name": "Fabio Ripamonti",
+    "number": 11,
+    "role": "C",
+    "height": 192,
+    "birthday": "1993-02-04",
+    "media": "7013bff6d2185f71b7eb161f51405f92.mp4",
+    "media_silhouette": "7013bff6d2185f71b7eb161f51405f92_sl.mp4"
+  },
+  {
+    "name": "Francesco Grisanti",
+    "number": 2,
+    "role": "G",
+    "height": 182,
+    "birthday": "1994-03-23",
+    "media": "",
+    "media_silhouette": ""
+  },
+  {
+    "name": "Davide Santambrogio",
+    "number": 0,
+    "role": "AG/AP",
+    "height": 192,
+    "birthday": "1979-06-03",
+    "media": "8d69e325abd23426a191e1fddbd610d9.mp4",
+    "media_silhouette": "8d69e325abd23426a191e1fddbd610d9_sl.mp4"
+  },
+  {
+    "name": "Francesco Palandrani",
+    "number": 17,
+    "role": "PM/G",
+    "height": 181,
+    "birthday": "1999-11-05",
+    "media": "7d45057e60dd8002ce648abd6e89da44.mp4",
+    "media_silhouette": "7d45057e60dd8002ce648abd6e89da44_sl.mp4"
+  },
+  {
+    "name": "Daniele Casale",
+    "number": 4,
+    "role": "PM/G",
+    "height": 185,
+    "birthday": "1996-03-04",
+    "media": "6489cb781e01d57e2b45b1146831190f.mp4",
+    "media_silhouette": "6489cb781e01d57e2b45b1146831190f_sl.mp4"
+  },
+  {
+    "name": "Fabrizio Mantica",
+    "number": 19,
+    "role": "C",
+    "height": 195,
+    "birthday": "1993-07-07",
+    "media": "",
+    "media_silhouette": ""
+  },
+  {
+    "name": "Giacomo Schiavone ",
+    "number": 1,
+    "role": "G",
+    "height": 171,
+    "birthday": "1993-04-26",
+    "media": "7389e23cb3bd808111df231923937f60.mp4",
+    "media_silhouette": "7389e23cb3bd808111df231923937f60_sl.mp4"
+  },
+  {
+    "name": "Rodrigo Palacio",
+    "number": 15,
+    "role": "G",
+    "height": 176,
+    "birthday": "1982-02-05",
+    "media": "8ba18814c700b5f13855837c788d1693.mp4,a0018301be8125891552f135d9969b37.mp4",
+    "media_silhouette": "8ba18814c700b5f13855837c788d1693_sl.mp4,a0018301be8125891552f135d9969b37_sl.mp4"
+  },
+  {
+    "name": "Jose Paganoni",
+    "number": 2,
+    "role": "G/PM",
+    "height": 186,
+    "birthday": "2000-10-10",
+    "media": "76e81226dd7912820cf8d90438b31374.mp4",
+    "media_silhouette": "76e81226dd7912820cf8d90438b31374_sl.mp4"
+  }
+]

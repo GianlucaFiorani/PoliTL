@@ -4,7 +4,7 @@ const Footer = () => {
   return (
     <footer className="my-5 border-top border-black border-3">
       <div className="mt-4 fs-1 gap-2 d-flex align-items-center">
-        <a>
+        <a href="https://www.instagram.com/garegnano_basket/">
           <BsInstagram className="pop text-black" />
         </a>
         <a>

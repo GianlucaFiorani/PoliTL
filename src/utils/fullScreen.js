@@ -1,24 +1,28 @@
 import { useEffect, useState } from "react";
 
 function getState() {
+  const isMobile = window.matchMedia("(max-width: 1024px)").matches;
+  const isLandscape = window.matchMedia("(orientation: landscape)").matches;
+
   return {
-    isMobile: window.innerWidth <= 768,
-    isLandscape: window.innerWidth > window.innerHeight,
+    isMobile,
+    isLandscape,
   };
 }
 
-export const fullScreen = () => {
+export const useFullScreen = () => {
   const [state, setState] = useState(getState());
 
   useEffect(() => {
+    const mediaQuery = window.matchMedia("(orientation: landscape)");
     const update = () => setState(getState());
 
     window.addEventListener("resize", update);
-    window.addEventListener("orientationchange", update);
+    mediaQuery.addEventListener("change", update);
 
     return () => {
       window.removeEventListener("resize", update);
-      window.removeEventListener("orientationchange", update);
+      mediaQuery.removeEventListener("change", update);
     };
   }, []);
 
